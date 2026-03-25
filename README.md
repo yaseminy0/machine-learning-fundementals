@@ -1,4 +1,4 @@
-#1
+# 1
 # K-Means Clustering & Image Compression
 
 In this project, I implemented the K-Means clustering algorithm and applied it to:
